@@ -1,6 +1,6 @@
-# Academic Incubator Capstone Project
+#Portfolio Website
 
-## Portfolio Website
+##Academic Incubator Capstone Project
 
 ###Made by
 * [Alex Davis](https://github.com/elax102)

@@ -3,6 +3,6 @@
 ## Portfolio Website
 
 ###Made by
-* Alex Davis
-* Eron Johnson
-* Darrell Wilson
+* [Alex Davis](https://github.com/elax102)
+* [Eron Johnson](https://github.com/tyjotojo)
+* [Darrell Wilson](https://github.com/CrabbWalker)

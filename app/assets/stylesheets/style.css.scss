@@ -1,0 +1,27 @@
+//Custom css or sass here
+
+body{
+	padding-top: 60px;
+	background: url("Noffy.jpg") no-repeat center center fixed;
+	min-height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	color: #ecf0f1;
+}
+
+.title-text{
+	position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.bg-img{
+	position: relative;
+}

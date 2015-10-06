@@ -2069,3 +2069,1968 @@ Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323
 
 
 Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-05 14:01:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:08:48 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 583ms (Views: 573.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/style.self-a8c74d2d4fe35c01cd125a8496cae5ae8651e6a98163ca9fbea20c86827b615f.css?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:08:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:10:19 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 283ms (Views: 281.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/style.self-57bdc3b52d201fadf3ed1e4fdc010ce9d8bfa0953dc3f0a701aef69ea8c99ccf.css?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:10:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:11:05 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 78ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/style.self-57bdc3b52d201fadf3ed1e4fdc010ce9d8bfa0953dc3f0a701aef69ea8c99ccf.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 138ms (Views: 137.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/style.self-dac1edb73489927cfe17602dbf2a50168b6c4876d2e113803d6096d0c0f893a6.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:35 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:11:36 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 85ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/style.self-dac1edb73489927cfe17602dbf2a50168b6c4876d2e113803d6096d0c0f893a6.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:11:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:13:03 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 86ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/style.self-dac1edb73489927cfe17602dbf2a50168b6c4876d2e113803d6096d0c0f893a6.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:13:25 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 132ms (Views: 130.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1fc4cce3f918234895087d610f4853db45760ef132ecfecf2b83f7c030b24bd7.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:13:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 134ms (Views: 133.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/style.self-dc1006701fb5de1ff723561bd9d95271af49b6da1acc0613e01e3c0480d742ad.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:41 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:13:42 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:13:53 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 127ms (Views: 126.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/style.self-4d847e7f73b47d9a38de66d2770febc6201baabf89036ebfea931fd9a98eea0e.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:13:54 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 139ms (Views: 137.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/style.self-5fb477c31ccb452a3a5469bee00e84e434554adfbc50e78a7e3d62fedbbaf1e3.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:29 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:17:30 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:17:38 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 141ms (Views: 139.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/style.self-4f7ff163669148898dbd5006b405d1b78f81d0579a1b3495032a4786fc2e5bd9.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:17:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 125.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/style.self-29ddbb1b805f65cef5b95e0ae1745ffc4cdf12928e17a230c19a96d6a033ce91.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:17:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:18:20 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 123ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/style.self-1b1e6017ec027fe4d9f0c9c6022326ac8fd2f37502f6d9ddb649465cd89a7e82.css?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:18:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 125.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/style.self-62988d8457ad1587dfdfa9d156a56215ac36db34281da0756ce6c5a3d73a5bbc.css?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:19:56 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:19:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 138ms (Views: 136.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-a4b2d947efbebb07aaad698ac8a6f85385d681712ad95a0275f35417244382f8.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:07 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:20:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:20:55 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 134ms (Views: 133.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/style.self-e576999f26bf41e61c5419e1ff87a12d07e31e8da77a7edee0b5d71e9a93e13f.css?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:20:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:21:26 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 133ms (Views: 132.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-1e86472331669675533946a9593b380980b99fb298c222e8f286c873e84096f4.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:21:27 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 117ms (Views: 116.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-777e80534d4f3ac0a3938d9ecee1908a3ada704045ee64ea691dddd40b75f682.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:21:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 152ms (Views: 150.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-01a4e22f5b177810f7e228da38c3b2607be1fe41f80fdcd16481908695bc799e.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:14 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:22:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 125.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/style.self-d3a50cbbc9f0f92efa4e01b8c723fe8c1e8971f76fd20410dc0f704d4f4b55dd.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:22:58 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:22:59 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:23:12 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 153ms (Views: 151.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/style.self-97ea27a243f1d18dd7a2cd6cd04b360bcd895ec94d5e7a896cf710378661d729.css?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:23:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:24:38 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 78ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/style.self-97ea27a243f1d18dd7a2cd6cd04b360bcd895ec94d5e7a896cf710378661d729.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:24:58 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 136ms (Views: 135.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/style.self-1b1e6017ec027fe4d9f0c9c6022326ac8fd2f37502f6d9ddb649465cd89a7e82.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:24:59 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 126ms (Views: 125.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-fe7c7358fb35e32c1c4bd7dfe1578cc32490c72922f483b79e186c4c811a6518.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:27:49 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:27:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:27:59 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 136ms (Views: 134.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-db5e99a6f3110bb7e263e2d6be853ba78eeb74d250b8fdbdd65339cc1588bfd1.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:59 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:59 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:27:59 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:28:00 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:29:03 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 133ms (Views: 132.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/style.self-1ec91c2657e160195773d1651577ff70e8e1f6f64cb5871690360e9ff2a5733d.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:29:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:29:24 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 147ms (Views: 146.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/style.self-a3770942434917115f15b63aaea2603b9186e7fee88e22e78ca88dbce04f66fb.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:25 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:29:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 161ms (Views: 159.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/style.self-7e0e0602ffea4b05ff2719f365eeaba13248af97fb3737f7f3d53df859df3384.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:39 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:29:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:29:51 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 153ms (Views: 151.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/style.self-59936b084978909381897f751a36e202e9a4325ddf1a3caa39d76a312d0eaa87.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:29:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 143ms (Views: 141.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-f23cd72b11e1cec92e1542a4f9924608e66067cd88898ceae2716b0ecbcafdfb.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:30:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 125.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-f74997ec1c521d52cd381dcf71cc4bd74a391e48f1e9b7e51757f35ec1cf6256.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:30:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:30:32 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 130ms (Views: 129.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/style.self-bedd10d9b7b6478940bbe391671c83f2b18a75e2df2a969235493163bd6f188c.css?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:30:33 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 111ms (Views: 111.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-47393d26592bd556971e829e1357d97c85e698dd9a7ddf28799c8319790eff6c.css?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:31:34 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:31:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 128ms (Views: 126.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/style.self-f2c44ca40a111a57adfc53d9cc32f86f64568b304cd57df8461bfd669b9a39ba.css?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:32:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:33:00 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 136ms (Views: 135.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/style.self-d48bad46c11705af74e6727db21213b30310b24145de1297d995330b6393a438.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:33:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:33:43 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/style.self-823c1920d64c94ff4584ca4d7a2a2980c531440657cff339bfd8765972ca86f3.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:33:44 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 133ms (Views: 132.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/style.self-26494ef26af7de04ef119a8466df31d176cbd6967cc2c2038ddd7eac1dd4901c.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:33:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/style.self-d48bad46c11705af74e6727db21213b30310b24145de1297d995330b6393a438.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:33:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 115ms (Views: 114.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-b0ed2b26b5601264de643ae881dbca9a0c50d2e00b4832565162793956c3090e.css?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:35:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:36:08 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 139ms (Views: 138.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/style.self-0215d49cc592e65ed59a6bc23ff623e5824cf3af5a72cd9e7f80d84d9618ccdc.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:36:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:36:16 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 124ms (Views: 122.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/style.self-13c1af19bac69110fa5b45076f84cc81767f6cbfd8a0ff6acf9855830b10f6fd.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:36:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:37:04 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-33acdfebd0555005bccbdb75b380164f895fe5d7deaea2289b68957589a994f9.css?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:37:05 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:37:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:38:54 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 134ms (Views: 132.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/style.self-517cc2e32fa541fb512b11d420540db49dab3d6bb8445c1961487c8dbff3849a.css?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:38:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:40:31 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 113ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/style.self-48fd4c645e7317128c1e3efce341e3f724b795a847b2f4c24341136072ed192f.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:40:32 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 126.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/style.self-1e58f4e16a9827a267ab0ed68d9fd3306c2564fe1cf42f3a040ed756244312cb.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:46 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:40:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:40:54 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 120ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/style.self-d4a0774b7d139c625a28206133e365755a186c983e048adbaee6dffb5ac34534.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:40:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:41:03 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-dccb263899751e17f657a2d36cff16afeb17b58ac22434c0559a0fdfddea19e4.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:41:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 92ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/style.self-d4a0774b7d139c625a28206133e365755a186c983e048adbaee6dffb5ac34534.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:41:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 111ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/style.self-51648822fae1036c7f61118fd9eec9a8975ebe4deb43f982aaa1a4f332bf43e5.css?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:46:34 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:46:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:47:26 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 124ms (Views: 123.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/style.self-a985337f23865adab092e95eca890e92fd4d3f89058aa8daed24656690b21ad0.css?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-06 10:47:27 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 79ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-6e2b0ee375383cd385f7425b78a11f05c31d4baa998a18db554b13df8fc62475.css?body=1" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+
+
+Started GET "/assets/style.self-a985337f23865adab092e95eca890e92fd4d3f89058aa8daed24656690b21ad0.css?body=1" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:27 -0400
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:28 -0400
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:28 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:28 -0400
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 127.0.0.1 at 2015-10-06 10:52:28 -0400

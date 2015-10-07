@@ -1,4 +1,8 @@
-//Custom css or scss here
+/*Custom css or scss here*/
+
+/*Available font-weight for Roboto: 300, 400, and 700
+ask Alex if you want more weights or italics*/
+$roboto: 'Roboto', sans-serif;
 
 h1{
 	color: #ecf0f1;
@@ -20,20 +24,98 @@ p{
 
 .title-text{
 	position: absolute;
-    top: 45%;
-    left: 0;
-    width: 100%;
-    padding-top: 25%;
+	width: 40%;
+	margin-left: 55%;
+    padding-top: 50vh;
+    font-family: $roboto;
+}
+
+.title-text, h1{
+	margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+	.title-text{
+		margin-left: 40%;
+		width: 50%;
+		padding-top: 20vh;
+	}
 }
 
 .bg-img{
 	position: relative;
 }
 
+
+.port-nav{
+	font-family: $roboto;
+	font-size: 150%;
+	font-weight: 700;
+}
+
+.port-nav, a{
+	color: #ecf0f1;
+	text-decoration: none;
+	transition: opacity 0.5s linear;
+}
+
+.port-nav, a:hover{
+	color: #ecf0f1;
+	text-decoration: none;
+}
+
+$cat-padding: 20px;
+$cat-init-opacity: 0.5;
+$cat-hover-opacity: 1;
+$cat-transition: opacity 0.3s linear;
+
+.cat{
+	opacity: $cat-init-opacity;
+	text-decoration: none;
+}
+
+.cat:hover{
+	opacity: $cat-hover-opacity;
+	text-decoration: none;
+}
+
+.cat1{
+	background-color: #1abc9c;
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	opacity: $cat-init-opacity;
+	transition: $cat-transition;
+}
+
+.cat2{
+	background-color: #27ae60;
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	opacity: $cat-init-opacity;
+	transition: $cat-transition;
+}
+
+.cat3{
+	background-color: #2980b9;
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	opacity: $cat-init-opacity;
+	transition: $cat-transition;
+}
+
+.cat4{
+	background-color: #8e44ad;
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	opacity: $cat-init-opacity;
+	transition: $cat-transition;
+}
+
 .about-item{
 	display:inline-block;
 	width: 33.333%;
 	height: 300px;
+	float: both;
 }
 
 .about-container{

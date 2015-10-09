@@ -28,7 +28,7 @@
 	max-width: 100%;
 	max-height: 100%;
 	width: 100%;
-	background: #3085a3;
+	background: #000000;
 	text-align: center;
 	cursor: pointer;
 }
@@ -107,7 +107,7 @@ figure.effect-chico img {
 }
 
 figure.effect-chico:hover img {
-	opacity: 0.5;
+	opacity: 0.25;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }

@@ -1,7 +1,8 @@
 
 // ToDo - Make smooth scroll
-$(".cat").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#portfolio").offset().top -100
-    }, 2000);
-});
+$(function)(){
+	$("a").on("click", function(){
+		$("html, body").animate({"scrollTop":$("#portfolio").offset().top, 1000})
+		return false;
+	});
+};

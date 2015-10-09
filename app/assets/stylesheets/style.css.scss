@@ -42,68 +42,38 @@ h1, p, i{
 	position: relative;
 }
 
+$cat-padding: 20px;
+$cat-trans-color: background-color 0.3s linear;
+$cat-trans-text: color 0.3s linear;
+
 .port-nav{
 	font-family: $roboto;
 	font-size: 150%;
 	font-weight: 700;
 }
 
-.port-nav, a{
-	color: #ecf0f1;
-	text-decoration: none;
-	transition: opacity 0.5s linear;
-}
-
-.port-nav, a:hover{
-	color: #ecf0f1;
+.port-nav a{
+	background-color: #f39c12;
+	color: rgba(236, 240, 241,0.5);
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	transition: $cat-trans-text, $cat-trans-color;
 	text-decoration: none;
 }
 
-$cat-padding: 20px;
-$cat-init-opacity: 0.5;
-$cat-hover-opacity: 1;
-$cat-transition: opacity 0.3s linear;
-
-.cat{
-	opacity: $cat-init-opacity;
+.port-nav a:hover,
+.port-nav a:active,
+.port-nav a:focus{
+	background-color: #f1c40f;
+	color: rgba(236, 240, 241,1.0);
+	padding-top: $cat-padding;
+	padding-bottom: $cat-padding;
+	transition: $cat-trans-text, $cat-trans-color;
 	text-decoration: none;
 }
 
-.cat:hover{
-	opacity: $cat-hover-opacity;
-	text-decoration: none;
-}
-
-.cat1{
-	background-color: #1abc9c;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	opacity: $cat-init-opacity;
-	transition: $cat-transition;
-}
-
-.cat2{
-	background-color: #27ae60;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	opacity: $cat-init-opacity;
-	transition: $cat-transition;
-}
-
-.cat3{
-	background-color: #2980b9;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	opacity: $cat-init-opacity;
-	transition: $cat-transition;
-}
-
-.cat4{
-	background-color: #8e44ad;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	opacity: $cat-init-opacity;
-	transition: $cat-transition;
+.portfolio{
+	height: 90vh;
 }
 
 .about-item{

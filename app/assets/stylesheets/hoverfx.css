@@ -11,8 +11,9 @@
 }
 
 .grid {
-	display: table-cell;
+	display: inline-block;
 	position: relative;
+	width: 33.333%;
 	margin: 0px;
 	padding: 0px;
 	list-style: none;

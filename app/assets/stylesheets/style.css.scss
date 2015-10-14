@@ -106,13 +106,15 @@ $cat-transition: opacity 0.3s linear;
 	transition: $cat-transition;
 }
 
-.about-item{
-	display:inline-block;
-}
-
 .about-container{
     margin:0;
     padding:0;
     border:0;
+}
 
+.fa-about{
+	position: absolute;
+	top:  50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }

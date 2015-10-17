@@ -74,6 +74,8 @@ $cat-trans-text: color 0.3s linear;
 
 .portfolio{
 	height: 90vh;
+    width: 100%;
+	display:inline-block;
 }
 
 .about-container{
@@ -87,4 +89,9 @@ $cat-trans-text: color 0.3s linear;
 	top:  50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+}
+
+.bg-carousel{
+  background-image: url("http://img.mota.ru/upload/wallpapers/2013/08/28/16/04/37255/kQZDDlX8Fs-1920x1080.jpg");
+  max-width: 100%;
 }

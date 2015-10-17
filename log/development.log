@@ -20516,3 +20516,33 @@ Started GET "/assets/Noffy.jpg" for ::1 at 2015-10-09 10:48:40 -0400
 Started GET "/assets/Noffy.jpg" for ::1 at 2015-10-13 20:48:57 -0400
 >>>>>>> 17bf0490d2fcc09144a16ab4b7ee22bf6a4d5e5c
 >>>>>>> CrabbWalker-master
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-15 10:49:58 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5263ms (Views: 5252.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_custom.self-dd94e8768152a6ca569e4f36256f96a8d5c5f44b184bfa7e332c142bd78073b3.css?body=1" for 127.0.0.1 at 2015-10-15 10:50:04 -0400
+
+
+Started GET "/assets/hoverfx.self-fcb6be36841b06a9386a04969c829f7cff7be1026527f39c3f8520c42e26af0b.css?body=1" for 127.0.0.1 at 2015-10-15 10:50:04 -0400
+
+
+Started GET "/assets/style.self-0a4bb7421b25669b4448ac7ad5399e1b24cf983ba6b0d7c5472df1f128fbbe0b.css?body=1" for 127.0.0.1 at 2015-10-15 10:50:04 -0400
+
+
+Started GET "/assets/portfolio.self-a4b20d446e5d741a6ed79305fe8323260cbf09c87ceebac3974812b80a7b9d08.js?body=1" for 127.0.0.1 at 2015-10-15 10:50:04 -0400
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-15 10:50:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-15 17:14:44 -0400
+Processing by PagesController#WhateverYallSay as HTML
+  Rendered pages/WhateverYallSay.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1150ms (Views: 1124.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-10-15 17:14:47 -0400

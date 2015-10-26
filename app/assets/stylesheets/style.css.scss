@@ -72,10 +72,17 @@ $cat-trans-text: color 0.3s linear;
 	text-decoration: none;
 }
 
+.container-fluid{
+    padding: 0px;
+}
+
 .portfolio{
 	height: 90vh;
     width: 100%;
-	display:inline-block;
+}
+
+.item{
+    height: 100%;
 }
 
 .about-container{
@@ -91,7 +98,3 @@ $cat-trans-text: color 0.3s linear;
 	transform: translate(-50%, -50%);
 }
 
-.bg-carousel{
-  background-image: url("http://img.mota.ru/upload/wallpapers/2013/08/28/16/04/37255/kQZDDlX8Fs-1920x1080.jpg");
-  max-width: 100%;
-}

@@ -17,25 +17,64 @@ body{
 $nav-trans-color: background-color 0.2s linear;
 $nav-trans-text: color 0.2s linear;
 
-.navbar-style{
+.navbar-default{
     background-color: #27ae60;
+    border: none;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
-.navbar-style a{
+.navbar-default a{
     color: #ecf0f1;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
-.navbar-style a:hover{
+.navbar-default a:hover{
     color: #fff;
     background-color: #2ecc71;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
+#navbar a{
+    background-color: #27ae60;
+	transition: $nav-trans-text, $nav-trans-color;
+    color: #ecf0f1;
+}
+
 #navbar a:hover{
     background-color: #2ecc71;
 	transition: $nav-trans-text, $nav-trans-color;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand{
+    background-color: #27ae60;
+	transition: $nav-trans-text, $nav-trans-color;
+    color: #ecf0f1;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+    background-color: #2ecc71;
+	transition: $nav-trans-text, $nav-trans-color;
+    color: #fff;
+}
+
+.navbar-default .navbar-toggle{
+    border-radius: 0px;
+    border-color: #fff;
+    background-color: #ecf0f1;
+	transition: $nav-trans-text, $nav-trans-color;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+    border-radius: 0px;
+    border-color: #fff;
+    background-color: #fff;
+	transition: $nav-trans-text, $nav-trans-color;
+
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #27ae60;
 }
 
 #title{
@@ -85,7 +124,7 @@ $cat-trans-text: color 0.2s linear;
 
 .port-nav a{
 	background-color: #27ae60;
-	color: rgba(236, 240, 241,0.5);
+	color: #ecf0f1;
 	padding-top: $cat-padding;
 	padding-bottom: $cat-padding;
 	transition: $cat-trans-text, $cat-trans-color;
@@ -96,7 +135,7 @@ $cat-trans-text: color 0.2s linear;
 .port-nav a:active,
 .port-nav a:focus{
 	background-color: #2ecc71;
-	color: rgba(236, 240, 241,1.0);
+	color: #fff;
 	padding-top: $cat-padding;
 	padding-bottom: $cat-padding;
 	transition: $cat-trans-text, $cat-trans-color;
@@ -120,6 +159,10 @@ $cat-trans-text: color 0.2s linear;
     height: 100%;
 }
 
+#about{
+    background-color: #27ae60;
+}
+
 .about-container{
     margin:0;
     padding:0;
@@ -133,3 +176,64 @@ $cat-trans-text: color 0.2s linear;
 	transform: translate(-50%, -50%);
 }
 
+#contact{
+    background-color: #27ae60;
+    height: auto;
+}
+
+$c-padding: 50px;
+
+.c-content{
+    padding-top: $c-padding;
+    padding-bottom: $c-padding;
+    color: #ecf0f1;
+}
+
+.c-top{
+    color: #ecf0f1;
+}
+
+.c-border{
+    margin: auto;
+    width: 50%;
+    border-bottom: 3px solid #ecf0f1;
+}
+
+.c-email{
+    padding-top: 30px;
+}
+
+.c-email > a{
+    background-color: #27ae60;
+	transition: $cat-trans-text, $cat-trans-color;
+    border-radius: 0px;
+}
+
+.c-email .btn:focus{
+    color: #fff;
+    text-decoration: none;
+    background-color: #2ecc71;
+	transition: $cat-trans-text, $cat-trans-color;
+    border-radius: 0px;
+}
+
+.c-email > a:hover{
+    color: #fff;
+    text-decoration: none;
+    background-color: #2ecc71;
+	transition: $cat-trans-text, $cat-trans-color;
+    border-radius: 0px;
+}
+
+.c-bottom a i{
+    display: inline-block;
+    padding: 10px;
+    color: #ecf0f1;
+}
+
+.c-bottom a i:hover{
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+	transition: $cat-trans-text, $cat-trans-color;
+}

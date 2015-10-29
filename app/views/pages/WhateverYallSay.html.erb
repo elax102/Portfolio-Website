@@ -4,27 +4,28 @@
 		<title>My Super Awesome Portfolio Website</title>
 	</head>
 	<body>
+        <div id="topPage"></div>
 <!--        Fix navbar-default/navbar-style to show collapsed nav button-->
-		<nav class="navbar navbar-style navbar-fixed-top">
-	      <div class="container">
-	        <div class="navbar-header">
-	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-	            <span class="sr-only">Toggle navigation</span>
-	            <span class="icon-bar"></span>
-	            <span class="icon-bar"></span>
-	            <span class="icon-bar"></span>
-	          </button>
-	          <a class="navbar-brand" href="#">My Portfolio</a>
-	        </div>
-	        <div id="navbar" class="navbar-collapse collapse">
-	          <ul class="nav navbar-nav navbar-right">
-	            <li><a href="#portfolio">Portfolio</a></li>
-	            <li><a href="#about">About</a></li>
-	            <li><a href="#contact">Contact</a></li>
-	          </ul>
-	        </div><!--/.nav-collapse -->
-	      </div>
-	    </nav>
+            <nav class="navbar navbar-default navbar-fixed-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="#topPage">My Portfolio</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                  </ul>
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
 		<!-- end navbar -->
 
 		<div id="title">
@@ -116,7 +117,24 @@
 		<!-- end about -->
 
 		<div id="contact">
-			<!-- Contact stuff goes here -->
+			<div class="container">
+                <div class="row">
+                    <div class="c-content text-center">
+                        <div class="c-top">
+                            <h1>Get In Touch</h1>
+                            <div class="c-border"></div>
+                        </div>
+                        <div class="c-email">
+                            <a class="btn btn-lg" href="mailto:myAddress@email.com" target="_blank"><h4>myAddress@email.com</h4></a>
+                        </div>       
+                        <div class="c-bottom">
+                            <a href="#" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
 		<!-- end contact -->
 

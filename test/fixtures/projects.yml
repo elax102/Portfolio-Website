@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  Sdescription: MyString
+  Ldescription: MyString
+  btnName: MyString
+  btnUrl: MyString
+
+two:
+  title: MyString
+  Sdescription: MyString
+  Ldescription: MyString
+  btnName: MyString
+  btnUrl: MyString

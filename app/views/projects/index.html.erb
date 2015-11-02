@@ -5,6 +5,7 @@
 <table>
   <thead>
     <tr>
+      <th>Image</th>
       <th>Title</th>
       <th>Sdescription</th>
       <th>Ldescription</th>
@@ -17,6 +18,7 @@
   <tbody>
     <% @projects.each do |project| %>
       <tr>
+        <td><%= image_tag project.image.url(:thumb) %></td>
         <td><%= project.title %></td>
         <td><%= project.Sdescription %></td>
         <td><%= project.Ldescription %></td>

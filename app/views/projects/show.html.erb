@@ -9,13 +9,13 @@
 		</div>
 	</div>
 </nav>
-<div class="p-container">
-	<div class="p-center">
-		<h1 class="padz">
+<div id="pShow" class="jumbotron">
+    <div class="container">
+		<h1 class="text-center">
   			<%= @project.title %>
 		</h1>
 
-		<%= image_tag @project.image.url, class: "img-responsive" %>
+        <%= image_tag @project.image.url, class: "img-responsive p-img" %>
 
 		<p class="padz">
   			<%= @project.Ldescription %>
@@ -24,5 +24,5 @@
 		<div class="padz">
   			<a href="<%= @project.btnUrl %>" class="btn btn-primary" target="_blank"><%= @project.btnName %></a>
   		</div>
-	</div>
+    </div>
 </div>

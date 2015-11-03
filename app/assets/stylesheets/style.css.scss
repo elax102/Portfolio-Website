@@ -11,7 +11,7 @@ h1, p, i, a{
 
 body{
     font-family: $roboto;
-    background-color: #95a5a6;
+    background-color: #27ae60;
 }
 
 
@@ -235,4 +235,23 @@ $c-padding: 50px;
     padding: 10px;
     color: #fff;
 	transition: $cat-trans-text, $cat-trans-color;
+}
+
+.p-container {
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    background-color: darkslategrey
+}
+
+.p-center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.padz {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
 }

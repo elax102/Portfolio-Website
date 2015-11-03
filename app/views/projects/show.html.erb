@@ -1,26 +1,28 @@
 <p id="notice"><%= notice %></p>
 
-<%= image_tag @project.image.url(:medium) %>
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+       	<div class="navbar-header">
+			<%= link_to projects_path do %>
+				<a href="#"><i class="fa fa-arrow-left fa-2x"></i></a>
+			<% end %>
+		</div>
+	</div>
+</nav>
+<div class="p-container">
+	<div class="p-center">
+		<h1 class="padz">
+  			<%= @project.title %>
+		</h1>
 
-<p>
-  <strong>Title:</strong>
-  <%= @project.title %>
-</p>
+		<%= image_tag @project.image.url, class: "img-responsive" %>
 
-<p>
-  <strong>Ldescription:</strong>
-  <%= @project.Ldescription %>
-</p>
-
-<p>
-  <strong>Btnname:</strong>
-  <%= @project.btnName %>
-</p>
-
-<p>
-  <strong>Btnurl:</strong>
-  <%= @project.btnUrl %>
-</p>
-
-<%= link_to 'Edit', edit_project_path(@project) %> |
-<%= link_to 'Back', projects_path %>
+		<p class="padz">
+  			<%= @project.Ldescription %>
+		</p>
+		<hr>
+		<div class="padz">
+  			<a href="<%= @project.btnUrl %>" class="btn btn-primary" target="_blank"><%= @project.btnName %></a>
+  		</div>
+	</div>
+</div>

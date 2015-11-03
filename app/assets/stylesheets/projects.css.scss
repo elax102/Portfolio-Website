@@ -22,25 +22,25 @@ $cat-trans-text: color 0.2s linear;
     color: #7f8c8d;
 }
 
-.box a{
-    background-color: #27ae60;
-	transition: $cat-trans-text, $cat-trans-color;
-    border-radius: 0px;
-    border: 0px;
-}
-
-.box a:focus{
-    color: #fff;
-    text-decoration: none;
-    background-color: #2ecc71;
-	transition: $cat-trans-text, $cat-trans-color;
-    border-radius: 0px;
-}
-
-.box a:hover{
-    color: #fff;
-    text-decoration: none;
-    background-color: #2ecc71;
-	transition: $cat-trans-text, $cat-trans-color;
-    border-radius: 0px;
-}
+//.box a{
+//    background-color: #27ae60;
+//	transition: $cat-trans-text, $cat-trans-color;
+//    border-radius: 0px;
+//    border: 0px;
+//}
+//
+//.box a:focus{
+//    color: #fff;
+//    text-decoration: none;
+//    background-color: #2ecc71;
+//	transition: $cat-trans-text, $cat-trans-color;
+//    border-radius: 0px;
+//}
+//
+//.box a:hover{
+//    color: #fff;
+//    text-decoration: none;
+//    background-color: #2ecc71;
+//	transition: $cat-trans-text, $cat-trans-color;
+//    border-radius: 0px;
+//}

@@ -38660,3 +38660,235 @@ Processing by ProjectsController#show as HTML
   [1m[35mProject Load (0.2ms)[0m  SELECT  "projects".* FROM "projects" WHERE "projects"."id" = ? LIMIT 1  [["id", 8]]
   Rendered projects/show.html.erb within layouts/application (1.3ms)
 Completed 200 OK in 128ms (Views: 126.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-03 13:33:34 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  [1m[35mProject Load (0.2ms)[0m  SELECT "projects".* FROM "projects"
+  Rendered projects/index.html.erb (28.3ms)
+  Rendered pages/_portfolio.html.erb (29.4ms)
+  Rendered pages/home.html.erb within layouts/application (36.9ms)
+Completed 200 OK in 606ms (Views: 593.4ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/masonry/transitions.self-a7dd920491429cc09dda36f003350cf98f5cec3c45d00888fab83293dce6ce92.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/hoverfx.self-fcb6be36841b06a9386a04969c829f7cff7be1026527f39c3f8520c42e26af0b.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/bootstrap_and_custom.self-dd94e8768152a6ca569e4f36256f96a8d5c5f44b184bfa7e332c142bd78073b3.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/projects.self-f9be3ff00bd3e92822ccd6f5f26a5e9bf4e7efa6b112ffcba88d8134bd29a2fd.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/style.self-4ebd966a364ec287e383422bd47fa797b8d136fc7b37497a461eea8a3988d63b.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/masonry/jquery.imagesloaded.min.self-c1d43d59c51c96f38689232f330c6de2816ec55a026ab1276dde2fbdf94b03d7.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/masonry/jquery.masonry.self-e55a2ca40f0bd20129930439c10a6b8c5dd26787b41fd8427db5b9da8c2af52f.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/portfolio.self-0ef014a014a715a4ad835bed0b1d2d2209e15f57e9da29af4511b18529999606.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/project.self-4973c337ce99d28adf5ef5ba3818b761a47f4a772a0b1b0b928cb47b56d6160e.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/application.self-44dc72337fbefc4f8c73fc8781b922cf9e4f99f8d068e6563c3820851d9390f6.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont-3c4a1bb7ce3234407184f0d80cc4dec075e4ad616b44dcc5778e1cfb1bc24019.woff2" for 127.0.0.1 at 2015-11-03 13:33:35 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+Processing by PagesController#home as HTML
+  [1m[36mProject Load (1.1ms)[0m  [1mSELECT "projects".* FROM "projects"[0m
+  Rendered projects/index.html.erb (20.0ms)
+  Rendered pages/_portfolio.html.erb (21.6ms)
+  Rendered pages/home.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 200ms (Views: 196.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/masonry/transitions.self-a7dd920491429cc09dda36f003350cf98f5cec3c45d00888fab83293dce6ce92.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/projects.self-f9be3ff00bd3e92822ccd6f5f26a5e9bf4e7efa6b112ffcba88d8134bd29a2fd.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/hoverfx.self-fcb6be36841b06a9386a04969c829f7cff7be1026527f39c3f8520c42e26af0b.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/bootstrap_and_custom.self-dd94e8768152a6ca569e4f36256f96a8d5c5f44b184bfa7e332c142bd78073b3.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/style.self-4ebd966a364ec287e383422bd47fa797b8d136fc7b37497a461eea8a3988d63b.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:52 -0500
+
+
+Started GET "/assets/masonry/jquery.masonry.self-e55a2ca40f0bd20129930439c10a6b8c5dd26787b41fd8427db5b9da8c2af52f.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/masonry/jquery.imagesloaded.min.self-c1d43d59c51c96f38689232f330c6de2816ec55a026ab1276dde2fbdf94b03d7.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/portfolio.self-0ef014a014a715a4ad835bed0b1d2d2209e15f57e9da29af4511b18529999606.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/application.self-44dc72337fbefc4f8c73fc8781b922cf9e4f99f8d068e6563c3820851d9390f6.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/project.self-4973c337ce99d28adf5ef5ba3818b761a47f4a772a0b1b0b928cb47b56d6160e.js?body=1" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont-3c4a1bb7ce3234407184f0d80cc4dec075e4ad616b44dcc5778e1cfb1bc24019.woff2" for 127.0.0.1 at 2015-11-03 13:33:53 -0500
+
+
+Started GET "/projects/11/edit" for 127.0.0.1 at 2015-11-03 13:34:08 -0500
+Processing by ProjectsController#edit as HTML
+  Parameters: {"id"=>"11"}
+  [1m[35mProject Load (0.2ms)[0m  SELECT  "projects".* FROM "projects" WHERE "projects"."id" = ? LIMIT 1  [["id", 11]]
+  Rendered projects/_form.html.erb (33.4ms)
+  Rendered projects/edit.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 179ms (Views: 169.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/projects/edit" for 127.0.0.1 at 2015-11-03 13:34:24 -0500
+Processing by ProjectsController#show as HTML
+  Parameters: {"id"=>"edit"}
+  [1m[36mProject Load (0.1ms)[0m  [1mSELECT  "projects".* FROM "projects" WHERE "projects"."id" = ? LIMIT 1[0m  [["id", 0]]
+Completed 404 Not Found in 2ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::RecordNotFound (Couldn't find Project with 'id'=edit):
+  app/controllers/projects_controller.rb:67:in `set_project'
+
+
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (26.9ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (24.6ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/alex/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (45.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-03 13:34:53 -0500
+Processing by PagesController#home as HTML
+  [1m[35mProject Load (0.6ms)[0m  SELECT "projects".* FROM "projects"
+  Rendered projects/index.html.erb (32.3ms)
+  Rendered pages/_portfolio.html.erb (33.6ms)
+  Rendered pages/home.html.erb within layouts/application (35.7ms)
+Completed 200 OK in 325ms (Views: 323.1ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/masonry/transitions.self-a7dd920491429cc09dda36f003350cf98f5cec3c45d00888fab83293dce6ce92.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/projects.self-d7fdbd0c23f4dc553baadb72db821d1d35350164380e068473ba0dd14ad767d8.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/bootstrap_and_custom.self-dd94e8768152a6ca569e4f36256f96a8d5c5f44b184bfa7e332c142bd78073b3.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/hoverfx.self-fcb6be36841b06a9386a04969c829f7cff7be1026527f39c3f8520c42e26af0b.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/style.self-4ebd966a364ec287e383422bd47fa797b8d136fc7b37497a461eea8a3988d63b.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/masonry/jquery.masonry.self-e55a2ca40f0bd20129930439c10a6b8c5dd26787b41fd8427db5b9da8c2af52f.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/masonry/jquery.imagesloaded.min.self-c1d43d59c51c96f38689232f330c6de2816ec55a026ab1276dde2fbdf94b03d7.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/project.self-4973c337ce99d28adf5ef5ba3818b761a47f4a772a0b1b0b928cb47b56d6160e.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/portfolio.self-0ef014a014a715a4ad835bed0b1d2d2209e15f57e9da29af4511b18529999606.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/application.self-44dc72337fbefc4f8c73fc8781b922cf9e4f99f8d068e6563c3820851d9390f6.js?body=1" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/Noffy.jpg" for 127.0.0.1 at 2015-11-03 13:34:54 -0500
+
+
+Started GET "/assets/font-awesome/fontawesome-webfont-3c4a1bb7ce3234407184f0d80cc4dec075e4ad616b44dcc5778e1cfb1bc24019.woff2" for 127.0.0.1 at 2015-11-03 13:34:54 -0500

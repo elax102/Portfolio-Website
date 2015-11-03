@@ -1,4 +1,4 @@
 class PagesController < ApplicationController
-  def WhateverYallSay
+    def home
   end
 end

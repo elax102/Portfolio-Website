@@ -78,7 +78,7 @@ $nav-trans-text: color 0.2s linear;
 }
 
 #title{
-	background: url("bgDark.jpg") no-repeat center center fixed;
+	background: url("bgLight.jpg") no-repeat center center fixed;
 	min-height: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -93,10 +93,16 @@ $nav-trans-text: color 0.2s linear;
 	margin-left: 55%;
     padding-top: 50vh;
     font-family: $roboto;
+    color: #2c3e50;
 }
 
-.title-text, h1{
+.title-text h1{
 	margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+.title-text p{
+    color: #2c3e50;
 }
 
 @media (max-width: 768px) {

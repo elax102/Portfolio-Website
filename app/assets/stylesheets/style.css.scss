@@ -4,9 +4,10 @@
 ask Alex if you want more weights or italics*/
 $roboto: 'Roboto', sans-serif;
 $p: Georgia, Cambria, 'Times New Roman', Times, serif;
+$dark-grey: rgba(0,0,0,0.8);
 
 h1, h3{
-	color:rgba(0,0,0,0.8);
+	color: $dark-grey;
     font-family: $roboto;
     font-weight: 700;
     font-size: 36px;
@@ -28,7 +29,9 @@ $nav-trans-text: color 0.2s linear;
 
 .navbar-default{
     background-color: #fff;
-    border: none;
+    border-bottom: solid;
+    border-width: 0 0 1px 0;
+    border-color: $dark-grey;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
@@ -45,7 +48,7 @@ $nav-trans-text: color 0.2s linear;
 
 #navbar a{
 	transition: $nav-trans-text, $nav-trans-color;
-    color: #ecf0f1;
+    color: $dark-grey;
 }
 
 #navbar a:hover{
@@ -55,9 +58,9 @@ $nav-trans-text: color 0.2s linear;
 }
 
 .navbar-default .navbar-brand{
-    background-color: #27ae60;
 	transition: $nav-trans-text, $nav-trans-color;
-    color: #ecf0f1;
+    color: $dark-grey;
+    font-size: 21px;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
@@ -94,7 +97,7 @@ $nav-trans-text: color 0.2s linear;
 }
 
 #title{
-	background: url(http://myawesomecdn.testcompany1.netdna-cdn.com/images/bgLight.jpg) no-repeat center center fixed;
+	background: url(http://myawesomecdn2.testcompany1.netdna-cdn.com/images/bgLight.jpg) no-repeat center center fixed;
 	min-height: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -172,7 +175,7 @@ $cat-trans-text: color 0.2s linear;
 
 #about{
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
     background-color: #fff;
 }
 
@@ -180,10 +183,6 @@ $cat-trans-text: color 0.2s linear;
     padding-left: 20vw;
     padding-right: 20vw;
     padding-bottom: 30px;
-}
-
-#about i{
-    color: #fff;
 }
 
 .container-fluid{

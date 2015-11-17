@@ -9,6 +9,15 @@ h1, p, i, a{
     font-family: $roboto;
 }
 
+p{
+    font-size: 18px;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+
 body{
     font-family: $roboto;
     background-color: #ecf0f1;
@@ -87,11 +96,14 @@ $nav-trans-text: color 0.2s linear;
 	height: 90vh;
 }
 
+.profilePic{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
 .title-text{
-	position: absolute;
-	width: 40%;
-	margin-left: 55%;
-    padding-top: 50vh;
+    padding-top: 20vh;
     font-family: $roboto;
     color: #2c3e50;
 }
@@ -106,11 +118,10 @@ $nav-trans-text: color 0.2s linear;
 }
 
 @media (max-width: 768px) {
-	.title-text{
-		margin-left: 40%;
-		width: 50%;
-		padding-top: 20vh;
-	}
+    .profilePic{
+	width: 100px;
+	height: 100px;
+    }
 }
 
 .bg-img{
@@ -178,6 +189,11 @@ $cat-trans-text: color 0.2s linear;
 	top:  50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+}
+
+.about-text{
+    padding: 50px;
+    color: #ecf0f1;
 }
 
 #contact{

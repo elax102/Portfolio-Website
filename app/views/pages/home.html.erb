@@ -36,10 +36,10 @@
 			<!-- Title stuff goes here -->
 			<div class="container-fluid">
 				<div class="bg-img">
-					<div class="title-text">
+					<div class="title-text text-center">
+                        <%= image_tag("ProfilePicSquared.jpg", :class =>"profilePic", alt: "Picute of me!") %>
 							<h1>Alex Davis Jr</h1>
-							<p>I'm a technical artist! I know both the programing and creative side of product development. I'm always working on something new, whether it's 3D modeling, making websites, animation, game development, 3D printing, or a fancy new javascript framework.</p>
-							<p>Check out my portfolio to see what I'm up to!</p>
+							<p>Web Designer & 3D Artist</p>
 					</div>
 				</div>
 			</div>
@@ -64,6 +64,9 @@
 		<div id="about">
 			<!-- About/blog stuff goes here. All pictures will need to be the same size, with an aspect ratio above 1. -->
 			<div class="about-container">
+                <div class="container text-center about-text">
+                    <h3>I'm a technical artist! I know both the programing and creative side of product development. I'm always working on something new, whether it's 3D modeling, making websites, animation, game development, 3D printing, or a fancy new javascript framework.</h3>
+                </div>
 					<div class="grid">
 						<figure class="effect-chico">
                             <%=image_tag("MyCodeBlur2.png", alt: "Blured html code.")%>

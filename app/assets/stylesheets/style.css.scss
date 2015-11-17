@@ -5,12 +5,21 @@ ask Alex if you want more weights or italics*/
 $roboto: 'Roboto', sans-serif;
 $p: Georgia, Cambria, 'Times New Roman', Times, serif;
 $dark-grey: rgba(0,0,0,0.8);
+$light-green: #2ecc71;
 
-h1, h3{
+h1, h2{
 	color: $dark-grey;
     font-family: $roboto;
     font-weight: 700;
     font-size: 36px;
+}
+
+h3{
+	color: $dark-grey;
+    font-family: $roboto;
+    font-weight: 400;
+    font-size: 24px;
+		margin: 0px;
 }
 
 p, i, a{
@@ -64,22 +73,22 @@ $nav-trans-text: color 0.2s linear;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
-    background-color: #2ecc71;
+  background-color: #2ecc71;
 	transition: $nav-trans-text, $nav-trans-color;
-    color: #fff;
+  color: #fff;
 }
 
 .navbar-default .navbar-toggle{
-    border-radius: 0px;
-    border-color: #fff;
-    background-color: #ecf0f1;
+  border-radius: 0px;
+  border-color: #fff;
+  background-color: #ecf0f1;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-    border-radius: 0px;
-    border-color: #fff;
-    background-color: #fff;
+  border-radius: 0px;
+  border-color: #fff;
+	background-color: #fff;
 	transition: $nav-trans-text, $nav-trans-color;
 
 }
@@ -92,8 +101,9 @@ $nav-trans-text: color 0.2s linear;
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
-    border-style: solid;
-    border-width: 2px;
+  border-style: solid;
+  border-width: 2px;
+	border-color: $dark-grey;
 }
 
 #title{
@@ -121,13 +131,6 @@ $nav-trans-text: color 0.2s linear;
     color: #2c3e50;
 }
 
-@media (max-width: 768px) {
-    .circle{
-	width: 100px;
-	height: 100px;
-    }
-}
-
 .bg-img{
 	position: relative;
 }
@@ -136,49 +139,35 @@ $cat-padding: 10px;
 $cat-trans-color: background-color 0.2s linear;
 $cat-trans-text: color 0.2s linear;
 
-.port-nav{
-	font-family: $roboto;
-	font-size: 150%;
-	font-weight: 400;
-    background-color: #27ae60;
-}
-
-.port-nav a{
-	background-color: #27ae60;
-	color: #ecf0f1;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	transition: $cat-trans-text, $cat-trans-color;
-	text-decoration: none;
-}
-
-.port-nav a:hover,
-.port-nav a:active,
-.port-nav a:focus{
-	background-color: #2ecc71;
-	color: #fff;
-	padding-top: $cat-padding;
-	padding-bottom: $cat-padding;
-	transition: $cat-trans-text, $cat-trans-color;
-	text-decoration: none;
-}
-
-#portfolio > .row{
-    margin: 0px;
-}
-
 .container-fluid{
     padding: 0px;
 }
 
+#portfolio h2{
+	padding: 50px;
+}
+
 .portfolio{
 	height: auto;
-    width: 100%;
+  width: 100%;
 }
 
 .item{
     height: 100%;
 }
+
+.panel{
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: $dark-grey;
+}
+
+.panel-default{
+	width: 250px;
+}
+
+
 
 #about{
     padding-bottom: 150px;
@@ -264,6 +253,6 @@ $c-padding: 50px;
 .c-bottom a i:hover{
     display: inline-block;
     padding: 10px;
-    color: #fff;
+    color: $light-green;
 	transition: $cat-trans-text, $cat-trans-color;
 }

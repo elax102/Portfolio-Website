@@ -1,11 +1,9 @@
 <div id="project" class="transitions-enabled">
 <% @projects.each do |project| %>
-    <div class="box panel panel-default">
-        <div class="panel-heading">
-            <div class="panel-title text-center">
-                <h3><%= project.title %></h3>
-            </div>
-        </div>
+    <div class="box panel panel-default text-center">
+      <%= link_to project do %>
+      <h3 class="panel-heading"><%= project.title %></h3>
+      <% end %>
         <%= link_to image_tag(project.image.url(:medium)), project %>
 
         <!-- Only show if signed in -->

@@ -30,7 +30,7 @@ p, i, a{
 
 body{
     font-family: $roboto;
-    background-color: #ecf0f1;
+    background-color: #fff;
 }
 
 $nav-trans-color: background-color 0.2s linear;
@@ -80,21 +80,19 @@ $nav-trans-text: color 0.2s linear;
 
 .navbar-default .navbar-toggle{
   border-radius: 0px;
-  border-color: #fff;
-  background-color: #ecf0f1;
+  border-color: #000;
+  background-color: #fff;
 	transition: $nav-trans-text, $nav-trans-color;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
   border-radius: 0px;
-  border-color: #fff;
-	background-color: #fff;
+	background-color: #000;
 	transition: $nav-trans-text, $nav-trans-color;
-
 }
 
 .navbar-default .navbar-toggle .icon-bar{
-    background-color: #27ae60;
+    background-color: #95a5a6;
 }
 
 .circle{
@@ -143,13 +141,23 @@ $cat-trans-text: color 0.2s linear;
     padding: 0px;
 }
 
+#portfolio{
+	background-color: #fff;
+	padding-top: 50px;
+}
+
 #portfolio h2{
-	padding: 50px;
+	padding-bottom: 50px;
 }
 
 .portfolio{
 	height: auto;
   width: 100%;
+}
+
+.panel-default > .panel-heading{
+	background-color: #fff;
+	border-bottom: 1px solid #95a5a6;
 }
 
 .item{
@@ -163,21 +171,29 @@ $cat-trans-text: color 0.2s linear;
 	border-color: $dark-grey;
 }
 
+.box a:hover{
+	text-decoration: none;
+}
+
+.panel-heading:hover{
+	text-decoration: none;
+	background-color: $light-green;
+	color: #fff;
+	transition: $cat-trans-text, $cat-trans-color;
+}
+
 .panel-default{
 	width: 250px;
 }
 
-
-
 #about{
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     background-color: #fff;
 }
 
 .about-text{
-    padding-left: 20vw;
-    padding-right: 20vw;
-    padding-bottom: 30px;
+		padding: 50px;
+		color: #ecf0f1;
 }
 
 .container-fluid{
@@ -191,14 +207,10 @@ $cat-trans-text: color 0.2s linear;
 	transform: translate(-50%, -50%);
 }
 
-.about-text{
-    padding: 50px;
-    color: #ecf0f1;
-}
-
 #contact{
     background-color: #fff;
     height: auto;
+		padding-top: 100px;
 }
 
 $c-padding: 50px;
